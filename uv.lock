@@ -9,7 +9,7 @@ resolution-markers = [
 ]
 
 [[package]]
-name = "agent-starter-python"
+name = "cs-ai-agent"
 version = "1.0.0"
 source = { editable = "." }
 dependencies = [
