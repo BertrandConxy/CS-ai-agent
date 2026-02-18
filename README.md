@@ -1,7 +1,3 @@
-<a href="https://livekit.io/">
-  <img src="./.github/assets/livekit-mark.png" alt="LiveKit logo" width="100" height="100">
-</a>
-
 # CS AI Agent - Supermarket Shopping Assistant
 
 A voice AI shopping assistant for supermarkets built with [LiveKit Agents](https://github.com/livekit/agents) and [Google Gemini Realtime API](https://cloud.livekit.io/).
