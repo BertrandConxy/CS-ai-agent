@@ -1,5 +1,3 @@
-# As this is a starter template project, we don't want to check in the uv.lock and livekit.toml files in its template form
-# However, once you have cloned this repo for your own use, LiveKit recommends you check them in and delete this github workflow entirely
     
 name: Template Check
 
